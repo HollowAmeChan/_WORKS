@@ -27,6 +27,10 @@ Blender，substance painter
 
 ![风格化-小人海报1](https://github.com/HollowAmeChan/_WORKS/assets/114399393/dc73c2d1-13ca-4f85-9dfd-324fb8c7e1c8)
 ![风格化-小人海报2](https://github.com/HollowAmeChan/_WORKS/assets/114399393/9f45255b-0a1a-427f-be11-8176b0477d95)
+![风格化-小人](htps://github.com/user-attachments/assets/7bf5f214-f72c-484c-aa61-afe4da66696d)
+![风格化-小人2](https://github.com/user-attachments/assets/31940448-47b6-4733-b403-c93d5ee05abc)
+![风格化-小人3](https://github.com/user-attachments/assets/ab7ca161-a40b-4723-87d5-d25c6bcc78e8)
+
 
 风格化minecraft角色 2023-7
 Blender，blockbench
